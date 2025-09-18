@@ -9,10 +9,10 @@
 
 👩‍💻 About Me
 
-    💡 Passionate developer and student at Kiriri Women’s University, growing my skills and shaping my journey as a tech professional.
+  💡 Passionate developer and student at Kiriri Women’s University, growing my skills and shaping my journey as a tech professional.
 
-    💻 I focus on JavaScript and front-end development, creating intuitive and engaging digital experiences.
+  💻 I focus on JavaScript and front-end development, creating intuitive and engaging digital experiences.
 
-    🌍 I love building projects that bring together creativity and technology.
+   🌍 I love building projects that bring together creativity and technology.
 
-   📧 Let’s connect: mercymuthoni5301@gmail.com
+  📧 Let’s connect: mercymuthoni5301@gmail.com
