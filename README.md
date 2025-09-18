@@ -1,4 +1,5 @@
-### Hi there 👋 Im Mercy Muthoni
+### Hi there 👋
+I'm Mercy, Welcome to my profile
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
