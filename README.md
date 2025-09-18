@@ -7,10 +7,11 @@
                                                   Hi there 👋
                                          I'm Mercy, Welcome to my profile
 
- 💡Passionate developer and a student at Kiriri Women’s University, where I’m sharpening my skills and growing as a tech professional.
+👩‍💻 About Me
+    💡 Passionate developer and student at Kiriri Women’s University, growing my skills and shaping my journey as a tech professional.
 
- 💡 I specialize in JavaScript and front-end development.
+    💻 I focus on JavaScript and front-end development, creating intuitive and engaging digital experiences.
 
- 🌍 I enjoy building projects that blend creativity with technology.
+    🌍 I love building projects that bring together creativity and technology.
 
- 📧 Let’s connect: mercymuthoni5301@gmail.com
+    📧 Let’s connect: mercymuthoni5301@gmail.com
